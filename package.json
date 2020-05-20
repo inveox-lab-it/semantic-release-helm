@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release-helm",
+  "version": "1.0.0",
+  "description": "Update Chart.yaml",
+  "main": "index.js",
+  "repository": "git@github.com:inveox-lab-it/semantic-release-helm.git",
+  "author": "Marcin Kaciuba <marcin.kaciuba@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@semantic-release/error": "^2.2.0",
+    "yaml": "^1.10.0"
+  }
+}
